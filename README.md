@@ -3,11 +3,11 @@
 El proyecto cuenta con dos servicios separados, el frontEnd hecho en angular y el backEnd hecho en Django.
 
 es nescesario para correr el proyecto tener instalado:
-    Python y pip.
-    Node.js y NPM (requerido para Angular CLI).
-    Angular CLI
-    Django 
-    django-cors-headers (nescesario para la interaccion entre angular y Django)
+Python y pip.
+Node.js y NPM (requerido para Angular CLI).
+Angular CLI
+Django 
+django-cors-headers (nescesario para la interaccion entre angular y Django)
     
     
 
@@ -32,11 +32,14 @@ COMANDOS UTILES PARA PREPARAR EL ENTORNO:
 	npm install -g @angular/cli
 
 INSTRUCCIONES PARA CORRER EL PROYECTO
-	1 ubicarse dentro de la carpeta backEnd/ y ejecutar desde consola el comando: python manage.py runserver
-
-	2 ubicarse dentro de la carpeta frontend/ y ejecutar desde consola el comando: ng serve
 	
-	3 abrir en un navegador la direccion: http://localhost:4200/
+0 descomprimir el archivo frontend.zip este contiene la parte del proyecto resarrolalda con angular, fue comprimida para poder subirse 
+	
+1 ubicarse dentro de la carpeta backEnd/ y ejecutar desde consola el comando: python manage.py runserver
+
+2 ubicarse dentro de la carpeta frontend/ y ejecutar desde consola el comando: ng serve
+	
+3 abrir en un navegador la direccion: http://localhost:4200/
 
 
 
