@@ -27,24 +27,6 @@ SECRET_KEY = 'django-insecure-y)uepz7e=_q_z0zom4b4z$&i1snmagomihgsy(4b0^85w1!9!^
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-#INSTALLED_APPS = [
-    # [...]
- #   'corsheaders',
-  #  'rest_framework',
-    # 'uploadapp'
-#]
-
-#INSTALLED_APPS = [
- #   'django.contrib.admin',
-  #  'django.contrib.auth',
-  #  'django.contrib.contenttypes',
-  #  'django.contrib.sessions',
-   # 'django.contrib.messages',
-   # 'django.contrib.staticfiles',
-   # 'rest_framework',
-   # 'Proyecto1',
-    #'bdapp',
-#]
 
 CORS_ORIGIN_ALLOW_ALL =  True
 

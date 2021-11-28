@@ -3,12 +3,6 @@ from django.db import models
 from collections import Counter
 
 
-# Create your models here.
-
-#class clients(models.Model):
-#    name= models.CharField(max_length=30)
-#    initDate= models.DateField()
-#    finalDate= models.DateField()
 
 
 def getEdadMinima(data,club):
