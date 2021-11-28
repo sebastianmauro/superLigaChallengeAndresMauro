@@ -3,13 +3,19 @@
 El proyecto cuenta con dos servicios separados, el frontEnd hecho en angular y el backEnd hecho en Django.
 
 es nescesario para correr el proyecto tener instalado:
+
 Python y pip.
+
 Node.js y NPM (requerido para Angular CLI).
+
 Angular CLI
+
 Django 
+
 django-cors-headers (nescesario para la interaccion entre angular y Django)
     
-    
+
+
 
 ENTORNO EN QUE SE REALIZO EL PROYECTO:
     
