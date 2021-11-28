@@ -14,10 +14,14 @@ django-cors-headers (nescesario para la interaccion entre angular y Django)
 ENTORNO EN QUE SE REALIZO EL PROYECTO:
     
 Angular CLI: 12.2.8
+
 Node: 14.18.0
+
 Package Manager: npm 6.14.15
 
+
 Python 3.8.10
+
 Django 3.2.8
 
 OS: linux x64 (Ubuntu)
