@@ -43,7 +43,7 @@ COMANDOS UTILES PARA PREPARAR EL ENTORNO:
 
 INSTRUCCIONES PARA CORRER EL PROYECTO
 	
-0 descomprimir el archivo frontend.zip este contiene la parte del proyecto resarrolalda con angular, fue comprimida para poder subirse 
+0 borrar la carpeta llamada frontend y descomprimir el archivo frontend.zip este contiene la parte del proyecto resarrolalda con angular, fue comprimida para poder subirse 
 	
 1 ubicarse dentro de la carpeta backEnd/ y ejecutar desde consola el comando: python manage.py runserver
 
